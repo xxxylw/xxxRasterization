@@ -13,3 +13,6 @@ Overall, this software rasterizer provides a fundamental understanding of the gr
 
 ## Display
 And the corresponding effects are as follows
+<p align="center">
+  <img src="./display/framebuffer2.png" alt="Framebuffer output2" width="800" />
+</p>
