@@ -16,3 +16,22 @@ And the corresponding effects are as follows
 <p align="center">
   <img src="./display/framebuffer_2.png" alt="Framebuffer output2" width="800" />
 </p>
+<p align="center">
+  <img src="./display/framebuffer.png" alt="Framebuffer output" width="800" />
+</p>
+<p align="center">
+  <img src="./display/framebuffer_8.png" alt="Framebuffer output8" width="800" />
+</p>
+<p align="center">
+  <img src="./display/framebuffer_7.png" alt="Framebuffer output7" width="800" />
+</p>
+<p align="center">
+  <img src="./display/framebuffer_6.png" alt="Framebuffer output6" width="800" />
+</p><p align="center">
+  <img src="./display/framebuffer_5.png" alt="Framebuffer output5" width="800" />
+</p>
+<p align="center">
+  <img src="./display/framebuffer_4.png" alt="Framebuffer output4" width="800" />
+</p><p align="center">
+  <img src="./display/framebuffer_3.png" alt="Framebuffer output3" width="800" />
+</p>
